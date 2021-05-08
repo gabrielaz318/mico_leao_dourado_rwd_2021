@@ -59,6 +59,7 @@ section {
 
 #divImg img {
     width: 400px;
+    border-radius: 15px;
 }
 
 #divImg p {
@@ -125,7 +126,9 @@ section {
 .img2 img {
     width: 400px;
     margin-top: 25px;
+    border-radius: 15px;
 }
+
 .img2 p {
     font-size: .8em;
     color: rgb(143, 143, 143);
